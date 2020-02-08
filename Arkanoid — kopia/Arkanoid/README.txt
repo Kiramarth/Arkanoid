@@ -1,1 +1,2 @@
-Plik exe znajduje siê w folderze release
+Plik exe znajduje siÄ™ w folderze release
+// exe file in /release folder
